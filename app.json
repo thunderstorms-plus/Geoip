@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "geoip",
+    "slug": "geoip",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
