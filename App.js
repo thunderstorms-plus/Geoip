@@ -24,8 +24,8 @@ const requestLocationPermission = async () => {
       PermissionsAndroid.PERMISSIONS.ACCESS_FINE_LOCATION,
       {
         title: 'Geolocation Permission',
-        message: 'Can we access your location?',
-        buttonNeutral: 'Ask Me Later',
+        message: 'Can we access your location?=)',
+        buttonNeutral: 'Ask Me Later!=)',
         buttonNegative: 'Cancel',
         buttonPositive: 'OK',
       },
